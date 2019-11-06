@@ -70,6 +70,14 @@
 			<numCuenta>7345619</numCuenta>
             <fechaNacimiento>2001-05-10</fechaNacimiento>
          </BeneficiarioNuevo>
+        <BeneficiarioExistente> 
+            <parentesco>C</parentesco>
+            <porcentaje>30</porcentaje> 
+            <activo>1</activo>
+            <fechaDesactivo/> 
+            <docId>128759450</docId> 
+            <numCuenta>7345619</numCuenta> 
+         </BeneficiarioExistente>
 		 <BeneficiarioNuevo>
             <nombre>Manuel Ramos Gonzales</nombre>
             <parentesco>P</parentesco>
